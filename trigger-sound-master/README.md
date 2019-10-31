@@ -1,2 +1,2 @@
 # trigger-sound
-wq
+This is "a totally original idea"
